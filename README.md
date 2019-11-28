@@ -1,2 +1,2 @@
 # python-assignment
-string method use in pythod
+string method use in python
